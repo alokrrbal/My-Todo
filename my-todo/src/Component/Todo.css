@@ -1,0 +1,89 @@
+.mainTododBox{
+    background-color: #171a26;
+    height: auto;
+}
+.titel{
+    padding-top: 30px;
+    color: #fff;
+    opacity: 70%;
+    padding-bottom: 30px;
+}
+.hrr{
+    width: 50%;
+    margin: auto;
+}
+
+/* -----Todo card css------ */
+
+
+.todoCard{
+
+    width: 60%;
+    box-shadow: rgba(9, 96, 196, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    height: 50px;
+    color: white;
+    margin: auto;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:  30px;
+    border-radius: 10px
+}
+.todoCard p{
+    /* border: 1px solid red; */
+    margin-left: 10px;
+    width: 17%;
+    height: auto;
+    text-align: start;
+}
+.todoTitle{
+    /* border: 1px solid red; */
+    width: 22%;
+    height: auto;
+    text-align: start;
+}
+.todoCard h5{
+    /* border: 1px solid red; */
+    width: 15%;
+    height: auto;
+    text-align: start;
+}
+.staDiv{
+    /* border: 1px solid red; */
+    width: 11%;
+    text-align: start;
+}
+.togBtn{
+    width: 10%;
+    height: 35px;
+    border-radius: 10px;
+    background-color: #29B6F6;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    opacity: 80%;
+    cursor: pointer;
+    border: 0px;
+}
+.dltBtn{
+    width: 10%;
+    height: 35px;
+    border-radius: 10px;
+    background-color: #E91E63;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    opacity: 80%;
+    cursor: pointer;
+    border: 0px;
+}
+.todoMainBox{
+    padding-bottom: 50px;
+}
+.stComp{
+    color: green;
+}
+.stPen{
+    color: #FF1744;
+}

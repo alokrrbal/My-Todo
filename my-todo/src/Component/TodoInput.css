@@ -1,0 +1,62 @@
+.formInBox{
+    /* border: 1px solid red; */
+    box-shadow: rgb(250, 3, 3) 0px 5px 15px;
+    width: 30%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 30px;
+    border-radius: 20px;
+    
+  }
+  .formInBox input{
+    width: 90%;
+    background: #fff;
+    opacity: 70%;
+    height: 30px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 18px;
+  }
+  .formInBox select{
+    width: 50%;
+    background: #fff;
+    height: 30px;
+    text-align: center;
+    opacity: 70%;
+    border-radius: 20px;
+    font-size: 15px;
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+  .formInBox option{
+    background: #fff;
+    text-align: center;
+    opacity: 70%;
+    border-radius: 20px;
+    font-size: 15px;
+  }
+  .formInBox button{
+    width: 40%;
+    height: 35px;
+    background-color: green;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    border: 0;
+    border-radius: 20px;
+    cursor: pointer;
+    opacity: 70%;
+  }
+  .inputBox{
+    padding: 30px;
+    margin: 20px;
+    margin-bottom: 30px;
+  }
+
+  .inpTit{
+    padding-top: 30px;
+    color: #fff;
+    opacity: 70%;
+    padding-bottom: 30px;
+  }
